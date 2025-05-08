@@ -2,3 +2,4 @@
 
 Notes and usage details for reactnative-expo-ai-agent-system-workflow.
 - clarify the setup steps
+- clarify the setup steps
